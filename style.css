@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form{
+    border: solid 1px #000;
+    width: 500px;
+    margin:0 auto;
+    padding: 10px;;
+}
