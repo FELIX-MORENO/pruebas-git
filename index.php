@@ -6,6 +6,6 @@
     <title>Git2</title>
 </head>
 <body>
-    
+    Curso GIT
 </body>
 </html>
