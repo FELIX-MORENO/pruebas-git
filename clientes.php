@@ -7,6 +7,6 @@
 </head>
 <body>
     Curso GIT<br>
-    <a href="clientes.php">pulsa aqui para ia a clientes</a>
+    <a href="clientes.php">pulsa aqui para ir a home</a>
 </body>
 </html>
