@@ -7,7 +7,7 @@
     <title>Git2</title>
 </head>
 <body>
-    GIT<br>
+    <h1>GIT</h1>
     <a href="clientes.php">Pulsa aqui para ir a clientes</a><br>
     <a href="ventas.php">Pulsa aqui para ir a ventas</a><br>
     <a href="compras.php">pulsa aqui para ir a compras</a>
