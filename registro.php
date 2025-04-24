@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="registro.php" method="post">
-    <p>
+        <p>
             <label for="usernombre">Nombre:</label>
             <input type="text" id="userombre" name="usernombre" required>
         </p>
@@ -24,6 +24,6 @@
         <p>
             <input type="submit" value="Login">
         </p>
-    </form>    
+    </form>
 </body>
 </html>
