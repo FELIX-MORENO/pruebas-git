@@ -10,9 +10,12 @@
     <form action="registro.php" method="post">
         <p>
             <label for="usernombre">Nombre:</label>
-            <input type="text" id="userombre" name="usernombre" required>
+            <input type="text" id="usernombre" name="usernombre" required>
         </p>
-
+        <p>
+            <label for="userapellidos">Apellidos:</label>
+            <input type="text" id="userapellidos" name="userapellidos" required>
+        </p>
         <p>
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
@@ -22,7 +25,7 @@
             <input type="password" id="password" name="password" required>
         </p>
         <p>
-            <input type="submit" value="Login">
+            <input type="submit" value="Registrar usuario">
         </p>
     </form>
 </body>
