@@ -2,6 +2,7 @@ body{
     margin: 10px auto;
     padding: 10px;    
     font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
 }
 
 form{
