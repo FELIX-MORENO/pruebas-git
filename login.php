@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>login</title>
+    <title>Login</title>
 </head>
 <body>
+    <h4><?=date('Y-m-d H:i:s');?></4>aqui lo cambia el felix/readme-3<hr>
     <form action="login.php" method="post">
         <p>
             <label for="username">Username:</label>
